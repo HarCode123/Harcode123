@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- Dynamic Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+Data+Scientist;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Insights+that+Drive+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=6366F1&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Harini S&style=flat-square&color=6366F1&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -97,17 +97,18 @@ I'm a passionate **Data Analytics & Data Science enthusiast** who believes that 
     <td>LLMs, prompt engineering, AI-powered analytics</td>
   </tr>
   <tr>
+  <!--
     <td>🏗️ <b>Data Engineering</b></td>
     <td>Pipelines, ETL workflows, data quality</td>
   </tr>
   <tr>
     <td>☁️ <b>Cloud Technologies</b></td>
     <td>Cloud-based data platforms and services</td>
-  </tr>
+  </tr>-->
 </table>
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 > Each project reflects a real business question answered through data.
@@ -161,6 +162,8 @@ I'm a passionate **Data Analytics & Data Science enthusiast** who believes that 
 
 ---
 
+-->
+
 ## 🎯 Career Objective
 
 I'm actively looking for roles where **data meets decision-making** — positions where I can contribute from day one, grow rapidly, and deliver real analytical value.
@@ -180,9 +183,9 @@ I bring an engineer's precision, a scientist's curiosity, and a strategist's foc
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-s-2a4b2630a/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinisrinivasan2716@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://harcode123.github.io/Portfolios/)
 
 </div>
 
