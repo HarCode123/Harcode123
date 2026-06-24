@@ -101,7 +101,7 @@ These are areas I'm actively working through right now — hands-on, not just re
 > This space documents real work — small experiments, datasets I've analyzed, and tools I've tested. Nothing is polished for show; it's an honest record of where I am and where I'm going.
 
 <!-- Replace these placeholders with your actual pinned repos -->
-
+<!--
 🔹 **[Project 1 — Coming Soon]**
 A small data analysis project using Python and Pandas. Will include a dataset, notebook, and key findings.
 
@@ -112,7 +112,7 @@ Experimenting with a Power BI dashboard on a publicly available dataset.
 Exploring a Generative AI use case using Google AI Studio.
 
 > 📌 *I'll be pinning repositories to this profile as I complete them. Follow along if you're curious.*
-
+-->
 ---
 
 ## 🎯 Career Goals
@@ -127,7 +127,7 @@ What I value in a work environment:
 - Room to ask questions and learn without judgment
 
 ---
-
+<!--
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -142,13 +142,13 @@ What I value in a work environment:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
 
 </div>
-
+-->
 ---
 
 ## 📬 Contact Information
 
 I'm open to conversations — whether it's feedback on a project, a question about a dataset, or just connecting with people working in a similar space.
-
+<!--
 <p>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -160,22 +160,7 @@ I'm open to conversations — whether it's feedback on a project, a question abo
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=2c5364&style=flat-square&label=Profile+Views" />
-
-<br/><br/>
-
-*Thanks for stopping by. I'm still building — check back soon.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
-
-</div>
-## 🤝 Let's Connect
-
+-->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harini-s-2a4b2630a/)
@@ -192,3 +177,18 @@ I'm open to conversations — whether it's feedback on a project, a question abo
 *Feel free to explore my repositories, raise an issue, or just say hello!*
 
 </div>
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=2c5364&style=flat-square&label=Profile+Views" />
+
+<br/><br/>
+
+*Thanks for stopping by. I'm still building — check back soon.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+
+</div>
+🤝 Let's Connect
+
