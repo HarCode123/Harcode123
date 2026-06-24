@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ```python
 profile = {
-    "name":       "Your Name",
+    "name":       "Harini S",
     "focus":      ["Data Analytics", "Data Science", "Business Intelligence", "Generative AI"],
-    "approach":   "Turn raw data into useful insights",
+    "approach":   "Bringing impact by tansforming data into practical insights and enhance understanding",
     "currently":  "Building a strong foundation in data tools and workflows",
     "open_to":    "Collaborations, feedback, and learning opportunities"
 }
@@ -39,11 +39,11 @@ profile = {
 
 ## 🧭 About Me
 
-I'm someone who finds data genuinely interesting — not just as a subject, but as a practical tool for understanding and solving real problems. My background spans a mix of technical skills and a growing interest in how AI is changing the way we work with information.
+I'm someone who finds data genuinely interesting — not just as a subject, but as a practical tool for understanding and solving real problems,along with drawing meaningful insights and observations.Bridging data and visualization with analysis makes me feel curious to know how practical decisions are being made in real time. My background spans a mix of skills and a growing interest in how AI is changing the way we work with information.
 
 I'm not here to overstate what I know. I have a working foundation in Python, SQL, and data fundamentals, and I'm actively expanding into areas like data visualization, business intelligence, and generative AI. What drives me is curiosity and a preference for learning by doing.
 
-Outside of data work, I enjoy exploring how technology intersects with business decisions, and I tend to gravitate toward tools and workflows that prioritize clarity and practical impact over complexity.
+Outside of data work, I enjoy exploring how technology intersects with business decisions,along with leveragiNg my public communication and network and I tend to gravitate toward tools and workflows that prioritize clarity and practical impact over complexity.
 
 ---
 
@@ -100,6 +100,7 @@ These are areas I'm actively working through right now — hands-on, not just re
 
 > This space documents real work — small experiments, datasets I've analyzed, and tools I've tested. Nothing is polished for show; it's an honest record of where I am and where I'm going.
 
+I will ensure to post them with full updates and 100% working prototype...STAY TUNED 😄
 <!-- Replace these placeholders with your actual pinned repos -->
 <!--
 🔹 **[Project 1 — Coming Soon]**
@@ -171,13 +172,13 @@ I'm open to conversations — whether it's feedback on a project, a question abo
 
 <div align="center">
 
----
+
 
 *Open to internships, full-time roles, and collaborative data projects.*
 *Feel free to explore my repositories, raise an issue, or just say hello!*
 
 </div>
----
+
 
 <div align="center">
 
