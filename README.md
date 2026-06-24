@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+Data+Scientist;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Insights+that+Drive+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Harini S&style=flat-square&color=6366F1&label=Profile+Views" alt="Profile Views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+%5BHarini+S%5D+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+Data+Scientist;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Insights+that+Drive+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!--
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=6366F1&label=Profile+Views" alt="Profile Views" />-->
 
 </div>
 
