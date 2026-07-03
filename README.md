@@ -80,6 +80,13 @@ Outside of data work, I enjoy exploring how technology intersects with business 
   <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+### AI Tools 
+<p>
+    <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
 ---
 
 ## 🔭 Currently Exploring
