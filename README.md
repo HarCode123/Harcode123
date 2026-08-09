@@ -105,8 +105,6 @@ These are areas I'm actively working through right now — hands-on, not just re
 
 ## 📂 Projects & Learning Journey
 
-> This space documents real work — small experiments, datasets I've analyzed, and tools I've tested. Nothing is polished for show; it's an honest record of where I am and where I'm going.
-
 I will ensure to post them with full updates and 100% working prototype...STAY TUNED 😄
 <!-- Replace these placeholders with your actual pinned repos -->
 <!--
@@ -189,7 +187,7 @@ I'm open to conversations — whether it's feedback on a project, a question abo
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=2c5364&style=flat-square&label=Profile+Views" />
+
 
 <br/><br/>
 
