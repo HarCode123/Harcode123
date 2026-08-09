@@ -132,7 +132,7 @@ What I value in a work environment:
 - Teams that take data quality seriously
 - Room to ask questions and learn without judgment
 
----
+
 <!--
 ## 📊 GitHub Statistics
 
