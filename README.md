@@ -43,7 +43,7 @@ I'm someone who finds data genuinely interesting — not just as a subject, but 
 
 I'm not here to overstate what I know. I have a working foundation in Python, SQL, and data fundamentals, and I'm actively expanding into areas like data visualization, business intelligence, and generative AI. What drives me is curiosity and a preference for learning by doing.
 
-Outside of data work, I enjoy exploring how technology intersects with business decisions,along with leveragiNg my public communication and network and I tend to gravitate toward tools and workflows that prioritize clarity and practical impact over complexity.
+Outside of data work, I enjoy exploring how technology intersects with business decisions,along with leveraging my public communication and network and I tend to gravitate toward tools and workflows that prioritize clarity and practical impact over complexity.
 
 ---
 
