@@ -91,7 +91,7 @@ Outside of data work, I enjoy exploring how technology intersects with business 
 
 ## 🔭 Currently Exploring
 
-These are areas I'm actively working through right now — hands-on, not just reading about them.
+These are areas I'm actively working through right now — hands-on, not just reading about them. While working on the projects we ensure to make necessary changes in the technical approaches to bring up a solution and also make sure to broaden our learning curve
 
 | Area | What I'm Developing right now.... |
 |---|---|
