@@ -107,10 +107,13 @@ These are areas I'm actively working through right now — hands-on, not just re
 
 I will ensure to post them with full updates and 100% working prototype...STAY TUNED 😄
 <!-- Replace these placeholders with your actual pinned repos -->
-<!--
-🔹 **[Project 1 — KATEB AI]**
-A small data analysis project using Python and Pandas. Will include a dataset, notebook, and key findings.
 
+🔹 **[Project 1 — KATEB AI]**
+This is an generative clinical consultations application where the doctors and patients convos are transcribed into texts filtering out the key words like the symptoms, diagnosis, previous medical histories and thereby give out the real time generated prescriptions including the dosage of the medicines prescribed and also make sure to include patients health details being monitored like BP, Temperature , BMI, and so on..
+Also since it focusses on the Arabian citizens , there is also Bilingual Translation from Engilsh to Arabic and vice versa in both consultations and prescriptions..
+
+Other changes will be updated soon....
+<!--
 🔹 **[Project 2 — Coming Soon]**
 Experimenting with a Power BI dashboard on a publicly available dataset.
 
