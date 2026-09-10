@@ -93,7 +93,7 @@ Outside of data work, I enjoy exploring how technology intersects with business 
 
 These are areas I'm actively working through right now — hands-on, not just reading about them.
 
-| Area | What I'm Doing |
+| Area | What I'm Developing right now.... |
 |---|---|
 | 📊 **Power BI Dashboard Development** | Building interactive dashboards and learning DAX fundamentals |
 | 📈 **Tableau Fundamentals** | Exploring data storytelling and visual best practices |
@@ -108,7 +108,7 @@ These are areas I'm actively working through right now — hands-on, not just re
 I will ensure to post them with full updates and 100% working prototype...STAY TUNED 😄
 <!-- Replace these placeholders with your actual pinned repos -->
 <!--
-🔹 **[Project 1 — Coming Soon]**
+🔹 **[Project 1 — KATEB AI]**
 A small data analysis project using Python and Pandas. Will include a dataset, notebook, and key findings.
 
 🔹 **[Project 2 — Coming Soon]**
